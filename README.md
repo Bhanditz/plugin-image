@@ -1,4 +1,4 @@
-image-core-fp11
-===============
+plugin-image
+============
 
 Pluign.IO image processing
