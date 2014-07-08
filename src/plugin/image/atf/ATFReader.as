@@ -105,7 +105,5 @@ package plugin.image.atf
 		{
 			return _count;
 		}
-		
-		
 	}
 }
