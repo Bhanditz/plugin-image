@@ -1,9 +1,7 @@
 package plugin.image.atf 
 {
-	import flash.display3D.Context3DTextureFormat;
 	import flash.utils.ByteArray;
 	import flash.utils.Endian;
-	import plugin.image.atf.enum.ATFTextureType;
 	import plugin.image.utils.IDataReader;
 	
 	/**
